@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{6828417C-2A86-79F7-07EC-E7BC4556337C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Library/PackageCache/com.unity.probuilder@4.0.5/Content/Shader/StandardVertexColor.shader">
+    <Files>
+      <File FileName="Library/PackageCache/com.unity.probuilder@4.0.5/Content/Shader/StandardVertexColor.shader" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="3d pracitcals" expanded="True">
+            <Node name="Assets" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="18227947-90f7-41f4-9bd1-92d093b623e4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
